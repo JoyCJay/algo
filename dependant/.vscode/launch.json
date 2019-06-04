@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - dijkstra",
+            "request": "launch",
+            "mainClass": "dijkstra",
+            "projectName": "dependant_6dca2714"
+        }
+    ]
+}
